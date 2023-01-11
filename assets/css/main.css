@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: #2e2e2c;
+    background-image: url('https://s1.ax1x.com/2023/01/11/pSnssgg.jpg');
 }
 * {
     -webkit-tap-highlight-color: transparent;
@@ -9,7 +9,7 @@ body {
     color: #e0e0e0;
     background: rgba(255,64,129,.35);
 }
-#rin-bg {
+#rin-bg{
     top: 0;
     left: 0;
     right: 0;
@@ -21,7 +21,7 @@ body {
     background-attachment: fixed;
     background-position: 50% 50%;
     background-color: #818181;
-    background-image: url('/assets/img/background.jpg');
+    background-image: url('https://s1.ax1x.com/2023/01/11/pSnssgg.jpg');
 }
 #rin-bg:after {
     top: 0;
