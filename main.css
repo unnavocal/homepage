@@ -1,3 +1,14 @@
+body {
+    margin: 0;
+    background: #2e2e2c;
+}
+* {
+    -webkit-tap-highlight-color: transparent;
+}
+::selection {
+    color: #e0e0e0;
+    background: rgba(255,64,129,.35);
+}
 #rin-bg{
     top: 0;
     left: 0;
@@ -10,7 +21,7 @@
     background-attachment: fixed;
     background-position: 50% 50%;
     background-color: #818181;
-    background-image: url('https://s1.ax1x.com/2023/01/11/pSnssgg.jpg');
+    background-image: url('https://cdn.jsdelivr.net/gh/unnavocal/homepage@master/background.jpg');
 }
 #rin-bg:after {
     top: 0;
